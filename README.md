@@ -20,7 +20,6 @@
 | **김대호** | [@HodaeSsi](https://github.com/HodaeSsi) | [zz4471](https://www.acmicpc.net/user/zz4471) | 꼼꼼하게 풀기 |
 | **방지섭** | [@bjs0306b](https://github.com/bjs0306b) | [bjs0306b](https://www.acmicpc.net/user/bjs0306b) | 효율성 끝판왕 |
 | **전병현** | [@2p31-1](https://github.com/2p31-1) | [2147483647](https://www.acmicpc.net/user/2147483647) | Java 마스터하기 |
-| **조성혁** | [@whqtker](https://github.com/whqtker) | [chosh2001](https://www.acmicpc.net/user/chosh2001) | 포기하지 말자 |
 
 <br/>
 
