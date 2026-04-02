@@ -79,8 +79,7 @@ algorithm-mar
 |:--:|:--|:--:|:--|
 | **1일차 (수)** | K진 트리 | 골드 III | https://www.acmicpc.net/problem/11812 |
 | **2일차 (목)** | 거울 설치 | 골드 III | https://www.acmicpc.net/problem/2151 |
-| **3일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **스터디** | - | 플래티넘  | https://www.acmicpc.net/problem/ |
+| **3일차 (금)** | 외판원 순회 3 | 골드 I | https://www.acmicpc.net/problem/16991 |
 
 ---
 
